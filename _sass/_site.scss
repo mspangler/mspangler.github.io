@@ -1,0 +1,24 @@
+
+@media print {
+  .no-print, .no-print * {
+    display: none !important;
+  }
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+h3 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.summary {
+  margin-bottom: 0px;
+}
+
+.notable {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
